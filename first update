@@ -1,0 +1,57 @@
+<html>
+<head></head>
+<body bgcolor = "#b20000">
+<h1 align = "center"> 
+<font size = "100" face = "impact" color = "#D4AF37">
+Incredible India 
+<font>
+</h1>
+<TABLE align = "centre" border = "1"   WIDTH="100%" >
+   <TR>
+      <p align = "center">
+      <font  size = "5" face = "Calibri" color = "#D4AF37">
+      With its rich history, diverse cultures, and breathtaking views, India is a perfect destination for holiday makers. 
+      <br><br>Whether you are looking for a relaxing escape from your busy work life, a romatic getaway for you and your partner or just a holiday that the kids will enjoy, India has something for everyone.
+      <br><br>Check below to find out more about destinations you can visit in India to make your next holiday a truly memorable one. 
+      </font>
+      </p>      
+   </TR>
+   <TR ALIGN="CENTER">
+      <TD>Taj Mahal</TD>
+      <TD>
+<font  size = "5" face = "Calibri" color = "#FF7F50">
+Since it is one of the wonders of the world, the Taj Mahal is one of the most well known monuments in the world. <br> It is a perfect destination for a romantic holiday, considering its historical background. <br> Built in the Mughal times, this monument was not only considered to be beautiful but also a great architectural acheivement.
+<br>For more information <a href="https://whc.unesco.org/en/list/252">click here</a>  
+<font>
+      </TD>
+      <TD>
+<img src="tajmahal.jpg" alt="taj mahal">
+</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+      <TD>Lotus Temple</TD>
+      <TD>
+<font  size = "5" face = "Calibri" color = "#FFFFFF">
+The India Gate is a memorial to the soldiers of the British Indian Army who died during the various wars that took place between 1914 and 1921. <br> It is a perfect destination for a historical holiday, considering the importance of the Indian struggle that it represents. <br> Located in the heart of New Delhi, the surroundings of the India Gate are truly breathtaking.
+<br>For more information <a href="https://www.india.com/news-travel/5-interesting-facts-about-the-bahai-lotus-temple-in-delhi-that-you-must-know-3232502/">click here</a> 
+<font>
+      </TD>
+      <TD>
+<img src="lotustemple.jpg" alt="lotus temple">
+</TD>
+   </TR>
+<TR ALIGN="CENTER">
+      <TD>India Gate</TD>
+      <TD>
+<font  size = "5" face = "Calibri" color = "#32CD32">
+Around the world the Lotus Temple is known for its unique flower-like shape. <br> It aims to promote the Bahai faith, which beelives in the oneness of People, Religions and Gods. <br> The temple is visited by millions of people evrey year and it is defintely a destination that should be on your list when you visit India.
+<br>For more information <a href="https://www.culturalindia.net/monuments/india-gate.html">click here</a> 
+<font>
+      </TD>
+      <TD>
+<img src="indiagate.jpg" alt="india gate">
+</TD>
+   </TR>
+</TABLE>
+</body>
+</html>
